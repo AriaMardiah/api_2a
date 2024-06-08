@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Samsung"
+        android:id="@+id/top_samsung"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="VIVO"
+        android:id="@+id/top_vivo"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="OPPO"
+        android:id="@+id/top_oppo"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="XIAOMI"
+        android:id="@+id/top_xiaomi"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:title="ASUS"
+        android:id="@+id/top_asus"
+        app:showAsAction="never"
+        />
+</menu>
